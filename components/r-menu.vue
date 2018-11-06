@@ -47,7 +47,7 @@ export default {
   position: absolute;
   top: 0;
   background: #fdfdfd;
-  border-radius: 3px;
+  border-radius: 1px;
   border: 1px solid #b1b1b1;
   box-shadow: 0 1px 5px #666;
   font-size: 12px;
@@ -65,9 +65,6 @@ export default {
 }
 .rMenu ul li:last-child {
   border-bottom: 0px;
-  box-shadow: 0 1px 0 #fff;
-  padding: 5px 10px;
-  width: 100px;
 }
 .rMenu ul li:hover {
   background: #ececec;
